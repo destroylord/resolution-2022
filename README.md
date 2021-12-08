@@ -28,17 +28,13 @@ source : [https://Gambar_source](https://awsimages.detik.net.id/community/media/
 
     + Golang as the main weapon later
     </details>    
-    
     <details>
     <summary>Front-End Developer</summary>
-
-
+    
     + Vuejs v3 for implementation in Dashboard Admin
     </details>
-    
     <details>
      <summary> Mobile Developer </summary>
-
 
     + I'm very interested in a flutter
     </details>
@@ -63,4 +59,4 @@ Keep Learning and Developing.
 
 ### **Social Media**
 
-[mail](masapin68@gmail.com) - [Instagram](https://instagram.com/fdm_0301) - [Facebook](https://www.facebook.com/dafrin.maulana.98/)
+<masapin68gmail.com> - [Instagram](https://instagram.com/fdm_0301) - [Facebook](https://www.facebook.com/dafrin.maulana.98/)
