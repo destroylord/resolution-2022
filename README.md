@@ -22,21 +22,21 @@ source : [https://Gambar_source](https://awsimages.detik.net.id/community/media/
     <details>
     <summary>Back-End Developer</summary>
 
-    + Laravel coming soon version 9 LTS and ecosystem, I will build clean code and TDD implementation
+    * Laravel coming soon version 9 LTS and ecosystem, I will build clean code and TDD implementation
 
-    + Codeigniter v4 implementation HMVC
+    * Codeigniter v4 implementation HMVC
 
-    + Golang as the main weapon later
+    * Golang as the main weapon later
     </details>    
     <details>
     <summary>Front-End Developer</summary>
     
-    + Vuejs v3 for implementation in Dashboard Admin
+    * Vuejs v3 for implementation in Dashboard Admin
     </details>
     <details>
      <summary> Mobile Developer </summary>
 
-    + I'm very interested in a flutter
+    * I'm very interested in a flutter
     </details>
     Learning for Documentation Application
         
@@ -59,4 +59,4 @@ Keep Learning and Developing.
 
 ### **Social Media**
 
-<masapin68gmail.com> - [Instagram](https://instagram.com/fdm_0301) - [Facebook](https://www.facebook.com/dafrin.maulana.98/)
+[Mail](https://mailto:masapin68@gmail.com) - [Instagram](https://instagram.com/fdm_0301) - [Facebook](https://www.facebook.com/dafrin.maulana.98/)
