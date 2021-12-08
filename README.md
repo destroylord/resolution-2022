@@ -1,4 +1,4 @@
-![2022.jpeg](2022.jpeg)
+<center> ![2022.jpeg](2022.jpeg) </center>
 
 source : [https://Gambar_source](https://awsimages.detik.net.id/community/media/visual/2021/09/23/kalender-2022.jpeg?w=700&q=90)
 
@@ -19,21 +19,24 @@ source : [https://Gambar_source](https://awsimages.detik.net.id/community/media/
 ## Productivity
 
 - Become an Expert Full-stack Developer
-    - Back-End Developer
-        
+    <details>
+    - <summary>Back-End Developer</summary>
         Laravel coming soon version 9 LTS and ecosystem, I will build clean code and TDD implementation
         
         Codeigniter v4 implementation HMVC
         
         Golang as the main weapon later
-        
+    </details>    
+    
     - Front-End Developer
         
         Vuejs v3 for implementation in Dashboard Admin
-        
+    
+    
     - Mobile Developer
-        
+
         I'm very interested in a flutter
+    
     Learning for Documentation Application
         
 - UI or UX Designer
