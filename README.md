@@ -21,9 +21,9 @@ source : [https://Gambar_source](https://awsimages.detik.net.id/community/media/
 - Become an Expert Full-stack Developer
     <details>
     <summary>Back-End Developer</summary>
-    - Laravel coming soon version 9 LTS and ecosystem, I will build clean code and TDD implementation
-    - Codeigniter v4 implementation HMVC
-    - Golang as the main weapon later
+    * Laravel coming soon version 9 LTS and ecosystem, I will build clean code and TDD implementation
+    * Codeigniter v4 implementation HMVC
+    * Golang as the main weapon later
     </details>    
     
     <details>
