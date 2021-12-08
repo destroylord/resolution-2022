@@ -1,8 +1,6 @@
-![2022.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ebaa740-d54a-4426-a04d-a31dfa43fa14/2022.jpeg)
+![2022.jpeg](2022.jpeg)
 
-source : 
-
-[](https://awsimages.detik.net.id/community/media/visual/2021/09/23/kalender-2022.jpeg?w=700&q=90)
+source : [https://Gambar_source](https://awsimages.detik.net.id/community/media/visual/2021/09/23/kalender-2022.jpeg?w=700&q=90)
 
 # Resolution 2022
 
@@ -52,3 +50,9 @@ I'm very disappointed with what I did this year but I'm also grateful to have ad
 Keep Learning and Developing.
 
 **Dafrin - 2021**
+
+---
+
+### **Social Media**
+
+[mail](masapin68@gmail.com) - [Instagram](https://instagram.com/fdm_0301) - [Facebook](https://www.facebook.com/dafrin.maulana.98/)
