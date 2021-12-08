@@ -1,4 +1,4 @@
-![2022.jpeg](2022.jpeg)
+<img src="2022.jpeg" width="100%">
 
 source : [https://Gambar_source](https://awsimages.detik.net.id/community/media/visual/2021/09/23/kalender-2022.jpeg?w=700&q=90)
 
@@ -32,12 +32,14 @@ source : [https://Gambar_source](https://awsimages.detik.net.id/community/media/
     <details>
     <summary>Front-End Developer</summary>
 
+
     + Vuejs v3 for implementation in Dashboard Admin
     </details>
     
     <details>
      <summary> Mobile Developer </summary>
-     
+
+
     + I'm very interested in a flutter
     </details>
     Learning for Documentation Application
